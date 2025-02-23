@@ -30,7 +30,7 @@ Generate technical specifications for features or systems. These prompts help cr
 ## Tools & Utilities
 
 ### [`_tools.md`](./_tools.md)
-A collection of utility prompts for various development tasks. These prompts assist with common development activities and can be combined with other prompts as needed.
+A collection of utility tools to run prompts.
 
 ## Ideation & Planning
 
